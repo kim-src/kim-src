@@ -28,7 +28,7 @@
 
 <br>
 
-### 💛 좋아하는 Python Library
+### 💙 좋아하는 Python Library
 <p>
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="Beautiful Soup" src="https://img.shields.io/badge/-Beautiful_Soup-3776AB?style=flat-square&logo=python&logoColor=white" />

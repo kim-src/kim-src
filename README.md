@@ -2,7 +2,7 @@
 
 <br>
 
-### ✅ 좋아하는 Language/Framework/Library
+<h3> ✅ 좋아하는 Language/Framework </h3>
 <p>
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />

@@ -37,8 +37,6 @@
 </p>
 
 <br>
-<br>
-<br>
 
 <!-- 추후 작성 예정
 <h3>Open source projects</h3>

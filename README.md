@@ -15,7 +15,7 @@
 
 <br>
 
-### 🚀 좋아하는 IDE/DBMS/Server
+<h3> 🚀 좋아하는 IDE/DBMS/Server </h3>
 <p>
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
@@ -28,7 +28,7 @@
 
 <br>
 
-### 💙 좋아하는 Python Library
+<h3> 💙 좋아하는 Python Library </h3>
 <p>
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="Beautiful Soup" src="https://img.shields.io/badge/-Beautiful_Soup-3776AB?style=flat-square&logo=python&logoColor=white" />

@@ -2,7 +2,7 @@
 
 <br>
 
-### 💚 좋아하는 Language/Framework/Library
+### ✅ 좋아하는 Language/Framework/Library
 <p>
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
@@ -13,7 +13,9 @@
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white" />
 </p>
 
-### 💛 좋아하는 IDE/DBMS/Server
+<br>
+
+### 🚀 좋아하는 IDE/DBMS/Server
 <p>
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
@@ -24,7 +26,9 @@
   <img alt="Tomcat" src="https://img.shields.io/badge/-Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=white" />
 </p>
 
-### 💙좋아하는 Python Library
+<br>
+
+### 💛 좋아하는 Python Library
 <p>
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="Beautiful Soup" src="https://img.shields.io/badge/-Beautiful_Soup-3776AB?style=flat-square&logo=python&logoColor=white" />

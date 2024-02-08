@@ -38,6 +38,10 @@
 
 <br>
 
+<h3> 👇 아래의 제가 개발중인 프로젝트를 구경해보세요~ </h3>
+
+<br>
+
 <!-- 추후 작성 예정
 <h3>Open source projects</h3>
 <table>

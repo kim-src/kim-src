@@ -2,7 +2,7 @@
 
 <br>
 
-<h3> ✅ 좋아하는 Language/Framework </h3>
+<h3> ✅ Kim이 좋아하는 Language/Framework </h3>
 <p>
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
@@ -12,10 +12,7 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white" />
 </p>
-
-<br>
-
-<h3> 🚀 좋아하는 IDE/DBMS/Server </h3>
+<h3> 🚀 Kim이 좋아하는 IDE/DBMS/Server </h3>
 <p>
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
@@ -25,10 +22,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Tomcat" src="https://img.shields.io/badge/-Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=white" />
 </p>
-
-<br>
-
-<h3> 💙 좋아하는 Python Library </h3>
+<h3> 💙 Kim이 좋아하는 Python Library </h3>
 <p>
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="Beautiful Soup" src="https://img.shields.io/badge/-Beautiful_Soup-3776AB?style=flat-square&logo=python&logoColor=white" />

@@ -2,7 +2,7 @@
 
 <br>
 
-<h3> ✅ Kim이 좋아하는 Language/Framework/Library </h3>
+<h3> 🔔 Kim이 좋아하는 Language/Framework/Library </h3>
 <h4> 📌 웹 개발 </h4>
 <p>
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
@@ -28,7 +28,7 @@
 
 <br>
 
-<h3> 🚀 Kim이 사용하는 IDE/DBMS/Server/VCS </h3>
+<h3> 🔔 Kim이 사용하는 IDE/DBMS/Server/VCS </h3>
 <h4> 📌 웹 개발 </h4>
 <p>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />

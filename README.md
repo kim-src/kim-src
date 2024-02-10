@@ -28,7 +28,7 @@
 
 <br>
 
-<h3> 🚀 Kim이 사용하는 IDE/DBMS/Server </h3>
+<h3> 🚀 Kim이 사용하는 IDE/DBMS/Server/VCS </h3>
 <h4> 📌 웹 개발 </h4>
 <p>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
@@ -36,13 +36,11 @@
   <img alt="STS" src="https://img.shields.io/badge/-Spring_Tool_Suite-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Tomcat" src="https://img.shields.io/badge/-Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 <h4> 📌 AI 모델 개발 </h4>
 <p>
   <img alt="Google Colab" src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" />
-</p>
-<p>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 <br>

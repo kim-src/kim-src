@@ -18,6 +18,7 @@
   <img alt="Jekyll" src="https://img.shields.io/badge/-Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white" />
 </p>
 <h4> 📌 AI 모델 개발 </h4>
+<p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="Beautiful Soup" src="https://img.shields.io/badge/-Beautiful_Soup-3776AB?style=flat-square&logo=python&logoColor=white" />

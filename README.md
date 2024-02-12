@@ -16,7 +16,6 @@
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
   <img alt="Jekyll" src="https://img.shields.io/badge/-Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white" />
-  <img alt="Bundler" src="https://img.shields.io/badge/-Bundler-CC342D?style=flat-square&logo=bundler&logoColor=white" />
 </p>
 <h4> 📌 AI 모델 개발 </h4>
 <p>

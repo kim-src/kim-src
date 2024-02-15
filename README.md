@@ -3,42 +3,47 @@
 <br>
 
 <h3> 🔔 Kim이 좋아하는 기술스택
-<h4> 📌 웹 개발 </h4>
+<h4> 🚀 웹 개발 프로젝트 : 모든 것을 가능하게, MyTalent </h4>
 <p>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white" />
 </p>
+
+<h4> 🚀 소프트웨어 개발 프로젝트 : 싱크홀(공동) AI 자동 분석 프로그램, VisualCavity </h4>
+
+> [깃허브 링크](https://github.com/Kim-src/VisualCavity)
+
+<p>
+  <img alt="Google Colab" src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+ 
 <h4> 📌 깃허브 블로그 </h4>
 <p>
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
   <img alt="Jekyll" src="https://img.shields.io/badge/-Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white" />
 </p>
-<h4> 📌 싱크홀(공동) AI 자동 분석 프로그램 </h4>
-<h4> 🚀 Visual Cavity </h4>
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img alt="Beautiful Soup" src="https://img.shields.io/badge/-Beautiful_Soup-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
-</p>
 
 <br>
 
 <h3> 🔔 Kim이 사용하는 IDE/DBMS/Tool </h3>
 <p>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
   <img alt="STS" src="https://img.shields.io/badge/-Spring_Tool_Suite-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-  <img alt="Google Colab" src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" />
+
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Tomcat" src="https://img.shields.io/badge/-Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
 </p>
 
 <br>

@@ -4,7 +4,7 @@
 
 <h3> 🔔 Kim이 개발중인 프로젝트
 
-<h3> 🚀 웹 개발 프로젝트 : 모든 것을 가능하게, MyVision </h3>
+<h3> 🚀 웹 개발 프로젝트 : "모든 것을 가능하게, MyVision" </h3>
 
 > [깃허브 링크]()
 <p>
@@ -21,7 +21,7 @@
 
 <br>
 
-<h3> 🚀 소프트웨어 개발 프로젝트 : 싱크홀(공동) AI 자동 분석 프로그램, VisualCavity </h3>
+<h3> 🚀 소프트웨어 개발 프로젝트 : "싱크홀(공동) AI 자동 분석 프로그램, VisualCavity" </h3>
 
 > [깃허브 링크](https://github.com/Kim-src/VisualCavity)
 <p>

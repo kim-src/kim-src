@@ -4,7 +4,9 @@
 
 <h3> 🔔 Kim이 개발중인 프로젝트
 
-<h3> 🚀 웹 개발 프로젝트 : 모든 것을 가능하게, MyTalent </h3>
+<h3> 🚀 웹 개발 프로젝트 : 모든 것을 가능하게, MyVision </h3>
+
+> [깃허브 링크]()
 <p>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />

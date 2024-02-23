@@ -4,9 +4,20 @@
 
 <h3> 🔔 Kim이 개발중인 프로젝트
 
-<h3> 🚀 소프트웨어 개발 프로젝트 : "싱크홀(공동) AI 자동 분석 프로그램, VisualCavity" </h3>
+<h3> 🚀 소프트웨어 개발 프로젝트 : "싱크홀(공동) AI 자동 분석 프로그램, [VisualCavity](https://github.com/Kim-src/VisualCavity)" </h3>
 
-> [깃허브 링크](https://github.com/Kim-src/VisualCavity)
+> AI 모델 기술스택
+<p>
+<img alt="Google Colab" src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
+<img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white" />
+<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%23323330.svg?style=flat-square&logo=opencv&logoColor=white" />
+<img alt="ElementTree" src="https://img.shields.io/badge/-ElementTree-blue?style=flat-square&logo=python&logoColor=white" />
+<img alt="numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
+</p>
+
+> 소프트웨어 프로그램 기술스택
 <p>
 <img alt="Google Colab" src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -14,13 +25,14 @@
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 <br>
 
-<h3> 🚀 웹 개발 프로젝트 : "최신 트렌드를 경험할 수 있는 웹 사이트, MyVision" </h3>
+<h3> 🚀 웹 개발 프로젝트 : "최신 트렌드를 경험할 수 있는 웹 사이트, [MyVision]()" </h3>
 
-> [깃허브 링크]()
+> 웹 기술스택
 <p>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />

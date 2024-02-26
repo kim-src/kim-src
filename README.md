@@ -4,7 +4,7 @@
 
 <h3> 🔔 Kim이 개발중인 프로젝트
 
-### 🚀 소프트웨어 개발 프로젝트 : "싱크홀(공동) AI 자동 분석 프로그램, [VisualCavity](https://github.com/Kim-src/VisualCavity)"
+### 🚀 [소프트웨어 개발 프로젝트 : "싱크홀(공동) AI 자동 분석 프로그램, VisualCavity](https://github.com/Kim-src/VisualCavity)"
 
 > AI 모델 기술스택
 <p>
@@ -31,7 +31,7 @@
 <br>
 <br>
 
-### 🚀 웹 개발 프로젝트 : "최신 트렌드를 경험할 수 있는 웹 사이트, [MyVision]()"
+### 🚀 [웹 개발 프로젝트 : "최신 트렌드를 경험할 수 있는 웹 사이트, MyVision]()"
 
 > 웹 기술스택
 <p>

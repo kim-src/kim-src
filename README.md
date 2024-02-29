@@ -2,7 +2,7 @@
 
 <br>
 
-<h3> 🔔 Kim이 개발중인 프로젝트
+## 🔔 Kim이 개발중인 프로젝트
 
 ### 🚀 [소프트웨어 개발 프로젝트 : "싱크홀(공동) AI 자동 분석 프로그램, VisualCavity](https://github.com/Kim-src/VisualCavity)"
 

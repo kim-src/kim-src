@@ -4,9 +4,9 @@
 
 <h3> 🔔 Kim이 개발중인 프로젝트
 
-### 🚀 [소프트웨어 개발 프로젝트 : "싱크홀(공동) AI 자동 분석 프로그램, VisualCavity](https://github.com/Kim-src/VisualCavity)"
+## 🚀 [소프트웨어 개발 프로젝트 : "싱크홀(공동) AI 자동 분석 프로그램, VisualCavity](https://github.com/Kim-src/VisualCavity)"
 
-> AI 모델 기술스택
+> ### AI 모델 기술스택
 <p>
 <img alt="Google Colab" src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -17,7 +17,7 @@
 <img alt="numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
 </p>
 
-> 소프트웨어 프로그램 기술스택
+> ### 소프트웨어 프로그램 기술스택
 <p>
 <img alt="Google Colab" src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -31,9 +31,9 @@
 <br>
 <br>
 
-### 🚀 [웹 개발 프로젝트 : "최신 트렌드를 경험할 수 있는 웹 사이트, MyVision]()"
+## 🚀 [웹 개발 프로젝트 : "최신 트렌드를 경험할 수 있는 웹 사이트, MyVision]()"
 
-> 웹 기술스택
+> ### 웹 기술스택
 <p>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />

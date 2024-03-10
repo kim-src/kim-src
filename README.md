@@ -4,7 +4,7 @@
 
 ## ✅ Kim의 주요 개발 프로젝트
 
-### 🔔 ["싱크홀 AI 자동 분석 프로그램, VisualCavity](https://github.com/Kim-src/VisualCavity)"
+### 🔔 [VisualCavity : 싱크홀 AI 자동 분석 프로그램](https://github.com/Kim-src/VisualCavity)"
 
 #### 📌 VisualCavity AI
 > - 개발 환경 : Google Colab

@@ -2,37 +2,28 @@
 
 <br>
 
-## 🔔 Kim의 주요 개발 프로젝트
+## ✅ Kim의 주요 개발 프로젝트
 
-### 🚀 [소프트웨어 개발 프로젝트 : "싱크홀(공동) AI 자동 분석 프로그램, VisualCavity](https://github.com/Kim-src/VisualCavity)"
+### 🔔 [소프트웨어 개발 프로젝트 : "싱크홀(공동) AI 자동 분석 프로그램, VisualCavity](https://github.com/Kim-src/VisualCavity)"
 
-> #### VisualCavity AI
+#### 📌 VisualCavity AI
 > - 개발 환경 : Google Colab
 > - 개발 목적 : GPR 데이터 분석 수준 하향
 > - 개발 내용 : 싱크홀(공동) 자동 분석 프로그램(VIsualCavity) 제작을 위한 이미지 학습 AI 모델
 > - 개발 역량 : Python 라이브러리, XML 파싱, AI의 이미지 학습 과정 및 딥러닝 모델 이해
 > - 상세 내용 : 깃허브 링크(https://github.com/Kim-src/VisualCavity)
+> - 사용된 기술
 
-<p>
-<img alt="Google Colab" src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
-<img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white" />
-<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%23323330.svg?style=flat-square&logo=opencv&logoColor=white" />
-<img alt="ElementTree" src="https://img.shields.io/badge/-ElementTree-blue?style=flat-square&logo=python&logoColor=white" />
-<img alt="numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
-</p>
+<img alt="Google Colab" src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
 
-> #### VisualCavity
-<p>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
-</p>
+#### 📌 VisualCavity SW
+> - 개발 환경 : Eclipse
+> - 개발 목적 : VisualCavity AI를 GPR 데이터 분석용 데스크톱 애플리케이션에 접목
+> - 개발 내용 : GPR 데이터 분석용 자사 데스크톱 애플리케이션 프로그램
+> - 개발 역량 : 도메인 지식, 프로그램 기획력, Java & Python 계열 언어 활용력
+> - 비고 : 개발 완료 후 PyInstaller 등을 이용한 실행 파일(exe) 변환 필요
+
+<img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img alt="Git Bash" src="https://img.shields.io/badge/Git%20Bash-FFE000?style=flat&logo=git&logoColor=white" />
 
 <br>
 <br>

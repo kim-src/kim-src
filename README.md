@@ -15,8 +15,6 @@
 > - 개발에 필요했던 기능 :  
 > <img alt="Google Colab" src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
 
-<br>
-
 #### 📌 VisualCavity SW
 > - 개발 환경 : Eclipse
 > - 개발 목적 : VisualCavity AI를 GPR 데이터 분석용 데스크톱 애플리케이션에 접목

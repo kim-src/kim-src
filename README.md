@@ -12,7 +12,7 @@
 > - 개발 내용 : 싱크홀(공동) 자동 분석 프로그램(VIsualCavity) 제작을 위한 이미지 학습 AI 모델
 > - 개발 역량 : Python 라이브러리, XML 파싱, AI의 이미지 학습 과정 및 딥러닝 모델 이해
 > - 상세 내용 : 깃허브 링크(https://github.com/Kim-src/VisualCavity)
-> - 사용된 기술
+> - 개발에 필요했던 기술
 
 <img alt="Google Colab" src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
 
@@ -21,7 +21,8 @@
 > - 개발 목적 : VisualCavity AI를 GPR 데이터 분석용 데스크톱 애플리케이션에 접목
 > - 개발 내용 : GPR 데이터 분석용 자사 데스크톱 애플리케이션 프로그램
 > - 개발 역량 : 도메인 지식, 프로그램 기획력, Java & Python 계열 언어 활용력
-> - 비고 : 개발 완료 후 PyInstaller 등을 이용한 실행 파일(exe) 변환 필요
+> - 상세 내용 : 깃허브 링크(https://github.com/Kim-src/VisualCavity)
+> - 개발에 필요했던 기술
 
 <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" /> <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img alt="Git Bash" src="https://img.shields.io/badge/Git%20Bash-FFE000?style=flat&logo=git&logoColor=white" />
 
@@ -34,19 +35,9 @@
 > - 개발 내용 : GPR 데이터 분석용 자사 데스크톱 애플리케이션 프로그램
 > - 개발 역량 : 도메인 지식, 프로그램 기획력, Java & Python 계열 언어 활용력
 > - 비고 : 개발 완료 후 PyInstaller 등을 이용한 실행 파일(exe) 변환 필요
+> - 개발에 필요했던 기술
 
-
-#### 📌 [블로그 링크]()
-<p>
-<img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
-<img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
-<img alt="Jekyll" src="https://img.shields.io/badge/-Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img alt="SASS" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-<img alt="Git Bash" src="https://img.shields.io/badge/Git%20Bash-FFE000?style=flat&logo=git&logoColor=white" />
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+<img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" /> <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" /> <img alt="Jekyll" src="https://img.shields.io/badge/-Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white" /> <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img alt="SASS" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /> <img alt="Git Bash" src="https://img.shields.io/badge/Git%20Bash-FFE000?style=flat&logo=git&logoColor=white" />
 
 <br>
 <br>

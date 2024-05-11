@@ -23,8 +23,8 @@
 <br>
 <br>
 
-### 🔔 [블로그 링크](https://kim-src.github.io/)
-### 👇 [개발 발자취](https://github.com/Kim-src/All-Projects)
+### 🔔 기술 블로그 링크(https://kim-src.github.io)
+### 👇 개발 프로젝트 모음(https://github.com/Kim-src/All-Projects)
 
 <!--
 ### 🔔 웹 개발

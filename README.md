@@ -2,7 +2,9 @@
 
 <br>
 
-## ✅ Java 개발 근황
+### 🔔 기술 블로그 링크(https://kim-src.github.io)
+
+## ✅ 개발 근황
 
 <br>
 
@@ -23,10 +25,10 @@
 <br>
 <br>
 
-### 🔔 기술 블로그 링크(https://kim-src.github.io)
+<!--
 ### 👇 개발 프로젝트 모음(https://github.com/Kim-src/All-Projects)
 
-<!--
+
 ### 🔔 웹 개발
 ### 📌 [깃허브 블로그](https://kim-src.github.io/)
 > - 개발 환경 : Visual Studio Code

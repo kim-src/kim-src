@@ -18,6 +18,11 @@
 
 <br>
 
+<p align="center"><img src="https://github.com/user-attachments/assets/19bc9c5b-5a63-48b0-9259-e8305b753655" width="50%" height="50%">
+
+<br>
+<br>
+
 ### 📌 순발력을 요구하는 구구단 게임
 > - 개발 환경 : Eclipse
 > - 개발 목적 : Java의 Timer 및 TimerTask 클래스 학습

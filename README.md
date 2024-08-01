@@ -22,19 +22,19 @@
 <br>
 <br>
 
-### 📌 순발력을 요구하는 구구단 게임
-> - 개발 환경 : Eclipse
-> - 개발 목적 : Java의 Timer 및 TimerTask 클래스 학습
-> - 개발 역량 : while 반복문, random 메서드, Timer 및 TimerTask 클래스 이해
-> - 상세 내용 : [Java 코드 링크](https://github.com/Kim-src/Study-Java/tree/main/sample13/src/kr/it/assignment), [블로그 글 링크](https://kim-src.github.io/posts/%EA%B5%AC%EA%B5%AC%EB%8B%A8-%EA%B2%8C%EC%9E%84-%EC%A0%9C%EC%9E%91-%EB%B0%A9%EB%B2%95-%EB%B0%8F-Java-Timer,-TimerTask-%ED%81%B4%EB%9E%98%EC%8A%A4/)
+### 📌 로또 프로그램(for / List / useState 이용)
+> - 개발 환경 : Eclipse / VS Code
+> - 개발 목적 : Java의 Array, List 구조, React의 useState 학습 및 논리 구조 이해
+> - 개발 역량 : Array, List 자료구조, for 반복문, Scanner 클래스, if 및 switch 조건문, useState 지식 등
+> - 상세 내용 : Java-Array [코드 링크](https://github.com/Kim-src/Study-Java/blob/540febd1523fbea134f3dba87f3f29f1db4f7bae/sample09/src/assignment/LottoGenerator.java), [블로그 글 링크](https://kim-src.github.io/posts/%EB%A1%9C%EB%98%90-%EB%B2%88%ED%98%B8-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EB%8B%B9%EC%B2%A8-%EA%B2%B0%EA%B3%BC-%ED%91%9C%EC%8B%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%A0%9C%EC%9E%91-%EB%B0%A9%EB%B2%95/) / Java-List [코드 링크](https://github.com/kim-src/study-java/blob/main/sample16/src/assignment/LottoGenerator_List.java), [블로그 글 링크](https://kim-src.github.io/posts/%EB%A1%9C%EB%98%90-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%ED%98%84-%EB%B0%A9%EC%8B%9D-Array%EC%97%90%EC%84%9C-List%EB%A1%9C-%EB%B3%80%EA%B2%BD%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/) / React-useState [코드 링크](), [블로그 글 링크]()
 
 <br>
 
-### 📌 로또 시스템 구현(for 반복문 이용)
+### 📌 순발력을 요구하는 구구단 게임
 > - 개발 환경 : Eclipse
-> - 개발 목적 : Java의 for 반복문 학습 및 논리 구조 이해
-> - 개발 역량 : for 반복문, Scanner 클래스, if 및 switch 조건문 이해
-> - 상세 내용 : [Java 코드 링크](https://github.com/Kim-src/Study-Java/blob/540febd1523fbea134f3dba87f3f29f1db4f7bae/sample09/src/assignment/LottoGenerator.java), [블로그 글 링크](https://kim-src.github.io/posts/%EB%A1%9C%EB%98%90-%EB%B2%88%ED%98%B8-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EB%8B%B9%EC%B2%A8-%EA%B2%B0%EA%B3%BC-%ED%91%9C%EC%8B%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%A0%9C%EC%9E%91-%EB%B0%A9%EB%B2%95/)
+> - 개발 목적 : Java의 Timer 및 TimerTask 클래스 학습
+> - 개발 역량 : while 반복문, random 메서드, Timer 및 TimerTask 클래스 지식 등
+> - 상세 내용 : [Java 코드 링크](https://github.com/Kim-src/Study-Java/tree/main/sample13/src/kr/it/assignment), [블로그 글 링크](https://kim-src.github.io/posts/%EA%B5%AC%EA%B5%AC%EB%8B%A8-%EA%B2%8C%EC%9E%84-%EC%A0%9C%EC%9E%91-%EB%B0%A9%EB%B2%95-%EB%B0%8F-Java-Timer,-TimerTask-%ED%81%B4%EB%9E%98%EC%8A%A4/)
 
 <br>
 <br>

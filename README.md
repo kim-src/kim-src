@@ -13,7 +13,7 @@
 ### 📌 JS-document
 > - 개발 환경 : STS4
 > - 개발 목적 : 싱크홀(공동) 조사서 양식 채움 자동화
-> - 개발 역량 : JSP 렌더링, DnD 파일 업로드, PDF 변환(클라이언트 사이드 이용), MVC 지식 등
+> - 개발 역량 : JSP 렌더링, 파일/폴더 업로드, PDF/Word/HWP 변환(클라이언트 사이드 이용) 지식 등
 > - 상세 내용 : https://github.com/kim-src/js-document
 
 <p align="center"><img src="https://github.com/user-attachments/assets/19bc9c5b-5a63-48b0-9259-e8305b753655" width="50%" height="50%">

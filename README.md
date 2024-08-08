@@ -22,6 +22,18 @@
 <br>
 <br>
 
+### 📌 JS-document
+> - 개발 환경 : VS Code
+> - 개발 목적 : 달력을 이용한 운동 루틴 관리
+> - 개발 역량 : React Hook, 컴포넌트 연결, 라이브러리 활용 지식 등
+> - 상세 내용 : https://github.com/kim-src/fitness-calendar
+
+<p align="center"><img src="https://github.com/user-attachments/assets/82e1d0cb-a31d-4f47-a0c5-3f626309d18f" width="50%" height="50%">
+
+<br>
+<br>
+<br>
+
 ### 📌 로또 프로그램(for / List / useState 이용)
 > - 개발 환경 : Eclipse / VS Code
 > - 개발 목적 : Java의 Array, List 구조, React의 useState 학습 및 논리 구조 이해

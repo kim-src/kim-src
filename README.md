@@ -22,7 +22,7 @@
 <br>
 <br>
 
-### 📌 JS-document
+### 📌 Fitness-Calendar
 > - 개발 환경 : VS Code
 > - 개발 목적 : 달력을 이용한 운동 루틴 관리
 > - 개발 역량 : React Hook, 컴포넌트 연결, 라이브러리 활용 지식 등

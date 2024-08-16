@@ -13,7 +13,7 @@
 ### 📌 JS-document
 > - 개발 환경 : STS4
 > - 개발 목적 : 싱크홀(공동) 조사서 양식 채움 자동화
-> - 개발 역량 : JSP 렌더링, 파일/폴더 업로드, PDF/Word/HWP 변환(클라이언트 사이드 이용) 지식 등
+> - 개발 역량 : JSP 렌더링, 이미지 파일 업로드, 폴더 내 이미지 업로드 지식 등
 > - 상세 내용 : https://github.com/kim-src/js-document
 
 <p align="center"><img src="https://github.com/user-attachments/assets/265f5f1d-6757-4ec6-a856-6b3f6340ca49" width="50%" height="50%">
@@ -25,7 +25,7 @@
 ### 📌 Fitness-Calendar
 > - 개발 환경 : VS Code
 > - 개발 목적 : 달력을 이용한 운동 루틴 관리
-> - 개발 역량 : React Hook, 컴포넌트 연결, 라이브러리 활용 지식 등
+> - 개발 역량 : useState, useEffect, 컴포넌트 연결, 라이브러리 활용 지식 등
 > - 상세 내용 : https://github.com/kim-src/fitness-calendar
 
 <p align="center"><img src="https://github.com/user-attachments/assets/d2b710d5-6b64-4a6d-b4bb-5225fae94c9b" width="50%" height="50%">

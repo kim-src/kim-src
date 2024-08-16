@@ -16,7 +16,7 @@
 > - 개발 역량 : JSP 렌더링, 파일/폴더 업로드, PDF/Word/HWP 변환(클라이언트 사이드 이용) 지식 등
 > - 상세 내용 : https://github.com/kim-src/js-document
 
-<p align="center"><img src="https://github.com/user-attachments/assets/19bc9c5b-5a63-48b0-9259-e8305b753655" width="50%" height="50%">
+<p align="center"><img src="https://github.com/user-attachments/assets/265f5f1d-6757-4ec6-a856-6b3f6340ca49" width="50%" height="50%">
 
 <br>
 <br>
@@ -28,7 +28,7 @@
 > - 개발 역량 : React Hook, 컴포넌트 연결, 라이브러리 활용 지식 등
 > - 상세 내용 : https://github.com/kim-src/fitness-calendar
 
-<p align="center"><img src="https://github.com/user-attachments/assets/82e1d0cb-a31d-4f47-a0c5-3f626309d18f" width="50%" height="50%">
+<p align="center"><img src="https://github.com/user-attachments/assets/d2b710d5-6b64-4a6d-b4bb-5225fae94c9b" width="50%" height="50%">
 
 <br>
 <br>

@@ -10,18 +10,6 @@
 
 <br>
 
-### 📌 JS-document
-> - 개발 환경 : STS4
-> - 개발 목적 : 싱크홀(공동) 조사서 양식 채움 자동화
-> - 개발 역량 : JSP 렌더링, 이미지 파일 업로드, 폴더 내 이미지 업로드 지식 등
-> - 상세 내용 : [깃허브 링크](https://github.com/kim-src/js-document), [블로그 글 링크](https://kim-src.github.io/posts/GPR-%EB%B6%84%EC%84%9D%EA%B3%B5%EB%8F%99%EC%A1%B0%EC%82%AC%EC%84%9C-%EC%9E%90%EB%8F%99%ED%99%94-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/)
-
-<p align="center"><img src="https://github.com/user-attachments/assets/265f5f1d-6757-4ec6-a856-6b3f6340ca49" width="50%" height="50%">
-
-<br>
-<br>
-<br>
-
 ### 📌 Fitness-Calendar
 > - 개발 환경 : VS Code
 > - 개발 목적 : 달력을 이용한 운동 루틴 관리
@@ -29,6 +17,18 @@
 > - 상세 내용 : [깃허브 링크](https://github.com/kim-src/fitness-calendar), [블로그 글 링크](https://kim-src.github.io/posts/React%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9A%B4%EB%8F%99-%EB%A3%A8%ED%8B%B4-%EA%B4%80%EB%A6%AC-%EC%BA%98%EB%A6%B0%EB%8D%94-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/)
 
 <p align="center"><img src="https://github.com/user-attachments/assets/d2b710d5-6b64-4a6d-b4bb-5225fae94c9b" width="50%" height="50%">
+
+<br>
+<br>
+<br>
+
+### 📌 JS-document
+> - 개발 환경 : STS4
+> - 개발 목적 : 싱크홀(공동) 조사서 양식 채움 자동화
+> - 개발 역량 : JSP 렌더링, 이미지 파일 업로드, 폴더 내 이미지 업로드 지식 등
+> - 상세 내용 : [깃허브 링크](https://github.com/kim-src/js-document), [블로그 글 링크](https://kim-src.github.io/posts/GPR-%EB%B6%84%EC%84%9D%EA%B3%B5%EB%8F%99%EC%A1%B0%EC%82%AC%EC%84%9C-%EC%9E%90%EB%8F%99%ED%99%94-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/)
+
+<p align="center"><img src="https://github.com/user-attachments/assets/265f5f1d-6757-4ec6-a856-6b3f6340ca49" width="50%" height="50%">
 
 <br>
 <br>

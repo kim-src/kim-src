@@ -2,11 +2,7 @@
 
 <br>
 
-## ✅ 개발 근황
-
-<br>
-
-### 🔔 기술 블로그 링크(https://kim-src.github.io)
+### 🔔 [포트폴리오](https://sikimceo.notion.site/101ab32f2cb3807fafa5ea8cee996a26) / [블로그](https://kim-src.github.io)
 
 <br>
 

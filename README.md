@@ -1,9 +1,19 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Kim-src Profile </h1>
 
+### 🔔 [포트폴리오](https://sikimceo.notion.site) / [블로그](https://kim-src.github.io)
+
 <br>
 
-### 🔔 [포트폴리오](https://sikimceo.notion.site/101ab32f2cb3807fafa5ea8cee996a26) / [블로그](https://kim-src.github.io)
+### 📌 JS-document
+> - 개발 환경 : STS4
+> - 개발 목적 : 싱크홀(공동) 조사서 양식 채움 자동화
+> - 개발 역량 : JSP 렌더링, 이미지 파일 업로드, 폴더 내 이미지 업로드 지식 등
+> - 상세 내용 : [깃허브 링크](https://github.com/kim-src/js-document), [블로그 글 링크](https://kim-src.github.io/posts/GPR-%EB%B6%84%EC%84%9D%EA%B3%B5%EB%8F%99%EC%A1%B0%EC%82%AC%EC%84%9C-%EC%9E%90%EB%8F%99%ED%99%94-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/)
 
+<p align="center"><img src="https://github.com/user-attachments/assets/265f5f1d-6757-4ec6-a856-6b3f6340ca49" width="50%" height="50%">
+
+<br>
+<br>
 <br>
 
 ### 📌 Fitness-Calendar
@@ -18,16 +28,11 @@
 <br>
 <br>
 
-### 📌 JS-document
-> - 개발 환경 : STS4
-> - 개발 목적 : 싱크홀(공동) 조사서 양식 채움 자동화
-> - 개발 역량 : JSP 렌더링, 이미지 파일 업로드, 폴더 내 이미지 업로드 지식 등
-> - 상세 내용 : [깃허브 링크](https://github.com/kim-src/js-document), [블로그 글 링크](https://kim-src.github.io/posts/GPR-%EB%B6%84%EC%84%9D%EA%B3%B5%EB%8F%99%EC%A1%B0%EC%82%AC%EC%84%9C-%EC%9E%90%EB%8F%99%ED%99%94-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/)
+### 📌 맛집 추천 웹 사이트(기획 단계)
+> - 개발 목적 : 본인만의 맛집 추천 및 유명인/유튜브 추천 맛집 소개
+> - 주요 기능 : 사용자 맞춤형 피드(feed) 제공 및 이벤트에 따른 각종 페이지 전환
+> - 상세 내용 : [사이트](https://sikimceo.notion.site/101ab32f2cb3802e8982d9bdfeacc9dc)
 
-<p align="center"><img src="https://github.com/user-attachments/assets/265f5f1d-6757-4ec6-a856-6b3f6340ca49" width="50%" height="50%">
-
-<br>
-<br>
 <br>
 
 ### 📌 로또 프로그램(for / List / useState 이용)

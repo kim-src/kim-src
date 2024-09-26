@@ -10,7 +10,7 @@
 > - 주요 기능 : 키워드 및 순위에 따른 음식점 나열, 지도 API를 이용한 음식점 위치 표시
 > - 상세 내용 : [노션 링크](https://www.notion.so/sikimceo/105ab32f2cb3808db63dc9ce9f199efb?pvs=4), [기획 내용](https://sikimceo.notion.site/101ab32f2cb3802e8982d9bdfeacc9dc)
 
-<p align="center"><img src="https://github.com/user-attachments/assets/19812edf-1174-4fa1-8e3d-4263f1dc6826" width="50%" height="50%">
+<p align="center"><img src="https://github.com/user-attachments/assets/f2d8936c-6483-483d-ad40-9ca36243fe25" width="50%" height="50%">
 
 <br>
 <br>

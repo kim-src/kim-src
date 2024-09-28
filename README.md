@@ -7,8 +7,8 @@
 ### 📌 미정(味停) : 맛집 정리 사이트
 > - 개발 도구 : STS4, Spring, JSP, HTML, CSS
 > - 개발 목적 : 유튜브에 소개된 맛집 위치 표시
-> - 주요 기능 : 키워드 및 순위에 따른 음식점 나열, 지도 API를 이용한 음식점 위치 표시
-> - 상세 내용 : [노션 링크](https://www.notion.so/sikimceo/105ab32f2cb3808db63dc9ce9f199efb?pvs=4), [기획 내용](https://sikimceo.notion.site/101ab32f2cb3802e8982d9bdfeacc9dc)
+> - 주요 기능 : 검색어 및 필터 조건에 따른 음식점 나열, 지도 API를 이용한 음식점 위치 표시
+> - 상세 내용 : [사이트 설명](https://sikimceo.notion.site/101ab32f2cb3802e8982d9bdfeacc9dc)
 
 <p align="center"><img src="https://github.com/user-attachments/assets/ff8baa52-da16-4802-b64f-afdcb0a7c220" width="50%" height="50%">
 

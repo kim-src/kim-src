@@ -10,7 +10,18 @@
 > - 주요 기능 : 검색어 및 필터 조건에 따른 음식점 나열, 지도 API를 이용한 음식점 위치 표시
 > - 상세 내용 : [사이트 설명](https://sikimceo.notion.site/101ab32f2cb3802e8982d9bdfeacc9dc)
 
-<p align="center"><img src="https://github.com/user-attachments/assets/ff8baa52-da16-4802-b64f-afdcb0a7c220" width="50%" height="50%">
+<p align="center"><img src="https://github.com/user-attachments/assets/ff8baa52-da16-4802-b64f-afdcb0a7c220" width="50%" height="50%" alt="figure"/>
+<p align="center">메인 페이지</p>
+
+<br/>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/93ef9204-881c-45cd-a132-46e9dfa0392b" width="50%" height="50%" alt="figure"/>
+<p align="center">유스 케이스</p>
+
+<br/>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/fe6e77af-4b6f-46f5-a04b-538ccdb5234d" width="50%" height="50%" alt="figure"/>
+<p align="center">ERD</p>
 
 <br>
 <br>
@@ -22,7 +33,8 @@
 > - 개발 역량 : JSP 렌더링, 이미지 파일 업로드, 폴더 내 이미지 업로드 지식 등
 > - 상세 내용 : [노션 링크](https://www.notion.so/sikimceo/JS-document-103ab32f2cb380d09f9bdbc166a84492?pvs=4), [깃허브 링크](https://github.com/kim-src/js-document), [블로그 글 링크](https://kim-src.github.io/posts/GPR-%EB%B6%84%EC%84%9D%EA%B3%B5%EB%8F%99%EC%A1%B0%EC%82%AC%EC%84%9C-%EC%9E%90%EB%8F%99%ED%99%94-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/)
 
-<p align="center"><img src="https://github.com/user-attachments/assets/265f5f1d-6757-4ec6-a856-6b3f6340ca49" width="50%" height="50%">
+<p align="center"><img src="https://github.com/user-attachments/assets/265f5f1d-6757-4ec6-a856-6b3f6340ca49" width="50%" height="50%" alt="figure"/>
+<p align="center">메인 페이지</p>
 
 <br>
 <br>
@@ -34,7 +46,8 @@
 > - 개발 역량 : useState, useEffect, 컴포넌트 연결, 라이브러리 활용 지식 등
 > - 상세 내용 : [노션 링크](https://www.notion.so/sikimceo/Fitness-Calendar-103ab32f2cb3807e8fdbe9393e574fb8?pvs=4), [깃허브 링크](https://github.com/kim-src/fitness-calendar), [블로그 글 링크](https://kim-src.github.io/posts/React%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9A%B4%EB%8F%99-%EC%9D%BC%EC%A0%95-%EA%B4%80%EB%A6%AC-%EC%BA%98%EB%A6%B0%EB%8D%94-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/)
 
-<p align="center"><img src="https://github.com/user-attachments/assets/d2b710d5-6b64-4a6d-b4bb-5225fae94c9b" width="50%" height="50%">
+<p align="center"><img src="https://github.com/user-attachments/assets/d2b710d5-6b64-4a6d-b4bb-5225fae94c9b" width="50%" height="50%" alt="figure"/>
+<p align="center">메인 페이지</p>
 
 <br>
 <br>

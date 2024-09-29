@@ -8,7 +8,7 @@
 > - 개발 도구 : STS4, Spring, JSP, HTML, CSS
 > - 개발 목적 : 유튜브에 소개된 맛집 위치 표시
 > - 주요 기능 : 검색어 및 필터 조건에 따른 음식점 나열, 지도 API를 이용한 음식점 위치 표시
-> - 상세 내용 : [사이트 설명](https://sikimceo.notion.site/101ab32f2cb3802e8982d9bdfeacc9dc)
+> - 상세 내용 : [서비스 설명](https://sikimceo.notion.site/101ab32f2cb3802e8982d9bdfeacc9dc)
 
 <p align="center"><img src="https://github.com/user-attachments/assets/ff8baa52-da16-4802-b64f-afdcb0a7c220" width="50%" height="50%" alt="figure"/>
 <p align="center">메인 페이지</p>

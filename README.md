@@ -20,7 +20,7 @@
 
 <br/>
 
-<p align="center"><img src="https://github.com/user-attachments/assets/fe6e77af-4b6f-46f5-a04b-538ccdb5234d" width="50%" height="50%" alt="figure"/>
+<p align="center"><img src="https://github.com/user-attachments/assets/c4444d8a-392e-4b7f-aad7-a8634a7f6eae" width="50%" height="50%" alt="figure"/>
 <p align="center">ERD</p>
 
 <br>

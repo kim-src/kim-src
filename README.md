@@ -16,7 +16,7 @@
 <br/>
 
 <p align="center"><img src="https://github.com/user-attachments/assets/93ef9204-881c-45cd-a132-46e9dfa0392b" width="50%" height="50%" alt="figure"/>
-<p align="center">유스 케이스</p>
+<p align="center">Use Case</p>
 
 <br/>
 

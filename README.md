@@ -59,8 +59,8 @@
 
 <br/>
 <br/>
-<br/>
 
+<!--
 ### 📌 로또 프로그램(for / List / useState 이용)
 > - 개발 도구 : Eclipse / VS Code, Java / React
 > - 개발 목적 : Java의 Array, List 구조, React의 useState 학습 및 논리 구조 이해
@@ -77,3 +77,4 @@
 
 <br/>
 <br/>
+-->
